@@ -1,4 +1,4 @@
-# easy_form_bloc
+# easy_form_bloc [![pub package](https://img.shields.io/pub/v/easy_form_bloc?style=flat-square)](https://pub.dev/packages/easy_form_bloc)
 
 **Make writing forms easier with BLoC pattern!**
 
