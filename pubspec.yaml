@@ -1,7 +1,6 @@
 name: easy_form_bloc
 description: Easy package to create form based on BLoC pattern
 version: 0.0.1
-author: Patryk Galazka
 homepage: https://github.com/Patryczon/easy_form_bloc
 issue_tracker: https://github.com/Patryczon/easy_form_bloc/issues
 
