@@ -1,7 +1,7 @@
 name: easy_form_bloc
 description: Bloc form is lightweight library which helps you writing forms and avoid boilerplate.
   Library cover domain layer of forms so when using it you are still able to use your own view implementation.
-version: 0.0.1
+version: 0.1.0
 homepage: https://github.com/Patryczon/easy_form_bloc
 issue_tracker: https://github.com/Patryczon/easy_form_bloc/issues
 
