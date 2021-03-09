@@ -31,8 +31,8 @@ abstract class FormBloc extends Bloc<FormEvent, FormState> {
 
   Future<FormState> _submitFormWithFuture(Map<String, dynamic> data) =>
       submitFuture(data)
-          .then((value) => FormSubmitted(data))
-          .catchError((ex) => FailedFormSubmitted(ex, data));
+          .catchError((ex) => FailedFormSubmitted(ex, data))
+          .then((value) => FormSubmitted(data));
 
   FormState _submitFormWithFunction(Map<String, dynamic> data) {
     try {
